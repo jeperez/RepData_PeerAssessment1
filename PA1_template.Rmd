@@ -151,7 +151,7 @@ c( mean(data$steps) , median(data$steps))
 ```{r}
 
 isWeekend <- function(x) {
-  if( x == "Sunday" || x == "Saturday") "weekend" else "weekday";
+  if( x == "domingo" || x == "sábado") "weekend" else "weekday";
 }
 
 data$day <- weekdays(data$date)

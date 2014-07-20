@@ -189,7 +189,299 @@ for (i in 1:nrow(intervalData) ) {
   rows <- which(is.na(estimated$steps))
   estimated[rows, "steps"] <- meanVal
 }
+```
 
+```
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+## Warning: ningun argumento finito para max; retornando -Inf
+```
+
+```r
 data <- estimated
 
 head(data)
@@ -234,7 +526,7 @@ c( mean(data$steps) , median(data$steps))
 
 ```r
 isWeekend <- function(x) {
-  if( x == "Sunday" || x == "Saturday") "weekend" else "weekday";
+  if( x == "domingo" || x == "sábado") "weekend" else "weekday";
 }
 
 data$day <- weekdays(data$date)
@@ -271,13 +563,13 @@ head(data[data$dayType == "weekday",])
 ```
 
 ```
-##   steps       date interval    day dayType
-## 1 1.717 2012-10-01        0 Monday weekday
-## 2 1.717 2012-10-01        5 Monday weekday
-## 3 1.717 2012-10-01       10 Monday weekday
-## 4 1.717 2012-10-01       15 Monday weekday
-## 5 1.717 2012-10-01       20 Monday weekday
-## 6 1.717 2012-10-01       25 Monday weekday
+##   steps       date interval   day dayType
+## 1 1.717 2012-10-01        0 lunes weekday
+## 2 1.717 2012-10-01        5 lunes weekday
+## 3 1.717 2012-10-01       10 lunes weekday
+## 4 1.717 2012-10-01       15 lunes weekday
+## 5 1.717 2012-10-01       20 lunes weekday
+## 6 1.717 2012-10-01       25 lunes weekday
 ```
 
 ```r
@@ -285,13 +577,13 @@ head(data[data$dayType == "weekend",])
 ```
 
 ```
-##      steps       date interval      day dayType
-## 1441     0 2012-10-06        0 Saturday weekend
-## 1442     0 2012-10-06        5 Saturday weekend
-## 1443     0 2012-10-06       10 Saturday weekend
-## 1444     0 2012-10-06       15 Saturday weekend
-## 1445     0 2012-10-06       20 Saturday weekend
-## 1446     0 2012-10-06       25 Saturday weekend
+##      steps       date interval    day dayType
+## 1441     0 2012-10-06        0 sábado weekend
+## 1442     0 2012-10-06        5 sábado weekend
+## 1443     0 2012-10-06       10 sábado weekend
+## 1444     0 2012-10-06       15 sábado weekend
+## 1445     0 2012-10-06       20 sábado weekend
+## 1446     0 2012-10-06       25 sábado weekend
 ```
 
 * So now we need to graph them:
